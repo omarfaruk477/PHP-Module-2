@@ -1,4 +1,4 @@
-## Playing with Data Part 01 ( Start with Array )
+# Part 01 - Playing with Data ( Start with Array )
 
     - In PHP, there are three types of arrays:
         1. - Indexed arrays - Arrays with a numeric index
@@ -40,3 +40,5 @@
         );
 
         echo $cars3[0][1];
+
+# Part 02 - Playing with Data ( Data Design & Data Loading )
