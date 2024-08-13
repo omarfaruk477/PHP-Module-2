@@ -5,7 +5,10 @@
         2. - Associative arrays - Arrays with named keys
         3. - Multidimensional arrays - Arrays containing one or more arrays
 
-### Indexed arrays
+#### Indexed arrays
 
     - In indexed arrays each item has an index number.
     - By default, the first item has index 0, the second item has item 1, etc.
+    - example
+    -  $cars = array("Volvo", "BMW", "Toyota");
+        var_dump($cars);
